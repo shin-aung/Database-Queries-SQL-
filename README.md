@@ -12,8 +12,6 @@ This repository contains my work for two assignments related to SQL and database
 - [How to Use](#how-to-use)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Assignment 1: Database Design and Conceptual Modeling
