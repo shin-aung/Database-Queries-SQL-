@@ -72,3 +72,4 @@ For any inquiries or feedback, please contact me:
 - **Email:** [shinthantstanley@gmail.com](mailto:shinthantstanley@gmail.com)
 - **LinkedIn:** [Shin Thant Aung](https://www.linkedin.com/in/shin-thant-aung-882036285/)
 
+Thank you for visiting my repository! If you find this project useful, please consider starring it.
